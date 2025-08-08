@@ -1,0 +1,117 @@
+[
+  {
+    "firstname": "xxxxxx",
+    "lastname": "xxxxxx",
+    "email": "xxxxxx@gmail.com",
+    "length": "2",
+    "articles": [
+      [
+        {
+          "name": "Wireless Headphones",
+          "id": "100001",
+          "price": 79.99,
+          "description": "Bluetooth over-ear headphones with noise cancellation.",
+          "stock": 25,
+          "category": "Electronics"
+        },
+        {
+          "name": "Stainless Steel Water Bottle",
+          "id": "100002",
+          "price": 19.99,
+          "description": "Insulated bottle to keep drinks hot or cold for hours.",
+          "stock": 100,
+          "category": "Home & Kitchen"
+        }
+      ],
+      [
+        {
+          "name": "Wireless Headphones",
+          "id": "100001",
+          "price": 79.99,
+          "description": "Bluetooth over-ear headphones with noise cancellation.",
+          "stock": 25,
+          "category": "Electronics"
+        },
+        {
+          "name": "Stainless Steel Water Bottle",
+          "id": "100002",
+          "price": 19.99,
+          "description": "Insulated bottle to keep drinks hot or cold for hours.",
+          "stock": 100,
+          "category": "Home & Kitchen"
+        },
+        {
+          "name": "USB-C Charging Cable",
+          "id": "100003",
+          "price": 9.99,
+          "description": "Durable 1-meter USB-C cable for fast charging.",
+          "stock": 200,
+          "category": "Electronics"
+        },
+        {
+          "name": "Notebook Set (3-pack)",
+          "id": "100004",
+          "price": 12.5,
+          "description": "Pack of 3 ruled notebooks with 100 pages each.",
+          "stock": 80,
+          "category": "Stationery"
+        },
+        {
+          "name": "Ergonomic Office Chair",
+          "id": "100005",
+          "price": 149.99,
+          "description": "Adjustable chair with lumbar support and mesh back.",
+          "stock": 15,
+          "category": "Furniture"
+        },
+        {
+          "name": "Wireless Headphones",
+          "id": "100001",
+          "price": 79.99,
+          "description": "Bluetooth over-ear headphones with noise cancellation.",
+          "stock": 25,
+          "category": "Electronics"
+        },
+        {
+          "name": "Stainless Steel Water Bottle",
+          "id": "100002",
+          "price": 19.99,
+          "description": "Insulated bottle to keep drinks hot or cold for hours.",
+          "stock": 100,
+          "category": "Home & Kitchen"
+        },
+        {
+          "name": "USB-C Charging Cable",
+          "id": "100003",
+          "price": 9.99,
+          "description": "Durable 1-meter USB-C cable for fast charging.",
+          "stock": 200,
+          "category": "Electronics"
+        },
+        {
+          "name": "Notebook Set (3-pack)",
+          "id": "100004",
+          "price": 12.5,
+          "description": "Pack of 3 ruled notebooks with 100 pages each.",
+          "stock": 80,
+          "category": "Stationery"
+        },
+        {
+          "name": "Ergonomic Office Chair",
+          "id": "100005",
+          "price": 149.99,
+          "description": "Adjustable chair with lumbar support and mesh back.",
+          "stock": 15,
+          "category": "Furniture"
+        }
+      ]
+    ],
+    "discount": "5",
+    "vat": "10",
+    "other": {
+      "value": "5",
+      "unit": "$"
+    },
+    "lang": "French"
+  }
+]

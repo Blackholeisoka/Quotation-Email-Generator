@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Wireless Headphones",
+    "id": "100001",
+    "price": 79.99,
+    "description": "Bluetooth over-ear headphones with noise cancellation.",
+    "stock": 25,
+    "category": "Electronics"
+  },
+  {
+    "name": "Stainless Steel Water Bottle",
+    "id": "100002",
+    "price": 19.99,
+    "description": "Insulated bottle to keep drinks hot or cold for hours.",
+    "stock": 100,
+    "category": "Home & Kitchen"
+  },
+  {
+    "name": "USB-C Charging Cable",
+    "id": "100003",
+    "price": 9.99,
+    "description": "Durable 1-meter USB-C cable for fast charging.",
+    "stock": 200,
+    "category": "Electronics"
+  },
+  {
+    "name": "Notebook Set (3-pack)",
+    "id": "100004",
+    "price": 12.5,
+    "description": "Pack of 3 ruled notebooks with 100 pages each.",
+    "stock": 80,
+    "category": "Stationery"
+  },
+  {
+    "name": "Ergonomic Office Chair",
+    "id": "100005",
+    "price": 149.99,
+    "description": "Adjustable chair with lumbar support and mesh back.",
+    "stock": 15,
+    "category": "Furniture"
+  },
+  {
+    "name": "LED Desk Lamp",
+    "id": "100006",
+    "price": 29.95,
+    "description": "Dimmable LED lamp with USB port and touch control.",
+    "stock": 60,
+    "category": "Office"
+  },
+  {
+    "name": "Yoga Mat",
+    "id": "100007",
+    "price": 24.99,
+    "description": "Non-slip 6mm yoga mat suitable for all fitness levels.",
+    "stock": 40,
+    "category": "Fitness"
+  },
+  {
+    "name": "Portable Power Bank",
+    "id": "100008",
+    "price": 34.99,
+    "description": "10000mAh battery pack with dual USB output.",
+    "stock": 90,
+    "category": "Electronics"
+  },
+  {
+    "name": "Cotton T-Shirt",
+    "id": "100009",
+    "price": 14.99,
+    "description": "Unisex cotton T-shirt available in several colors.",
+    "stock": 150,
+    "category": "Apparel"
+  },
+  {
+    "name": "Digital Kitchen Scale",
+    "id": "100010",
+    "price": 17.5,
+    "description": "Compact kitchen scale with LCD and tare function.",
+    "stock": 45,
+    "category": "Kitchen"
+  }
+]
